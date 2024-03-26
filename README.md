@@ -4,7 +4,11 @@
 
 <h2> About Me:</h2>
 
-<p>Hi, Pankaj here currently working as a Software engineer. Working with Big Data and Full stack mostly. DIY guy, inclined towards building products that work at scale. (Fun Fact) I am crazy about workspace setups, aesthetics and RGB lights &#128514 &#128514. Info-Sec enthusiast and avid reader of the Opensource magazine. Undergrad in Computer Science Engineering.</p>
+<p>Hey there! I'm all about Kubernetes and making things run smoothly. I love diving into containers, orchestrating them like a pro, and getting all the tech pieces to fit perfectly together.
+
+I thrive on solving puzzles, especially when it comes to scaling and system resilience. There’s something awesome about crafting solutions that streamline operations and improve efficiency.
+
+Always on the hunt for the next tech adventure, I explore new tools and ideas in the cloud and beyond. If you're into creating tech magic and love sharing ideas, let's connect and make something great together!</p>
 
 
 <h2>👀Contribution Stats</h2>
@@ -22,12 +26,7 @@
 - Check out my Blog: [https://medium.com/@pankaj_kumar_singh](https://medium.com/@pankaj_kumar_singh)
 - Write to me: [pankajsingh.official8@gmail.com](mailto:pankajsingh.official8@gmail.com)
 
-<details>
-  <summary><b>2021 goals</b></summary>
-<li> Start working on contributing to open source projects.</li>
-<li> Write more blogs on medium.</li>
-<li> Understand Stock market &#128514. Have been racking my brain behind this for sometime.</li>
-<li> Participate in more competitions.</li>
+
 </details>
 
 
